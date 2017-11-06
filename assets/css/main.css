@@ -68,7 +68,7 @@
 	@media screen and (max-width: 480px) {
 
 		a img {
-			max-width: 480px;
+			max-width: 150px;
 		}
 
 		html, body {
