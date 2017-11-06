@@ -67,13 +67,12 @@
 
 	@media screen and (max-width: 480px) {
 
-		img {
-			max-width: 320px;
+		a {
+			max-width: 480px;
 		}
 
 		html, body {
 			min-width: 320px;
-			max-width: 480px;
 		}
 
 	}
